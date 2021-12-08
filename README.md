@@ -8,9 +8,9 @@
 <a href="https://www.instagram.com/cursoemvideo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-Projeto do Cordel de Milton Duarte criado no capitulo 20 do curso de HTML5 e CSS3 com o professor Gustavo Guanabara do Curso em Video (redes sociais e site acima).
+Projeto do Cordel de __*Milton Duarte*__ criado no capitulo 20 do curso de HTML5 e CSS3 com o professor Gustavo Guanabara do Curso em Video (redes sociais e site acima).
 
 Para acessar a página do Projeto Cordel acesse:
-https://marioarl.github.io/projeto-android/
+https://marioarl.github.io/projeto-cordel/
 
 *** 
